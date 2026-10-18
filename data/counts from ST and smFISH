@@ -1,0 +1,16 @@
+Data represents the means of the barplots from Fig. S6.
+
+              Gene        Layer         transcripts ST  transcript from smFISH
+conditions = [("Fabp7",    "GL",         58,             1555),
+              ("Penk",     "GL",         8,                55),
+              ("Slc6a11",  "GL",         55,             1132),
+              ("Fabp7",    "OPL",        27,              712),
+              ("Penk",     "OPL",        5,                21),
+              ("Slc6a11",  "OPL",        47,             1063),
+              ("Fabp7",    "MCL",        26,              636),
+              ("Penk",     "MCL",        25,              213),
+              ("Slc6a11",  "MCL",        40,              874),
+              ("Fabp7",    "GCL",        24,              696),
+              ("Penk",     "GCL",        63,             1559),
+              ("Slc6a11",  "GCL",        34,              752),
+              ]
