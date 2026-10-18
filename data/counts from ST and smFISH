@@ -1,4 +1,4 @@
-Data represents the means of the barplots from Fig. S6.
+Data extracted from Fig. S6.
 
               Gene        Layer         transcripts ST  transcript from smFISH
 conditions = [("Fabp7",    "GL",         58,             1555),
