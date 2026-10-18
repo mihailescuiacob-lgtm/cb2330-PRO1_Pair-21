@@ -1,0 +1,2 @@
+# cb2330-PRO1
+CB2330_PRO1_Pair 21
